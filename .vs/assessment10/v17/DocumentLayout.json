@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08A8C4B7-AB09-4490-8D25-D27EAF582276}|NotificationService\\NotificationService\\NotificationService.csproj|c:\\users\\user\\desktop\\microservices\\notificationservice\\notificationservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A8C4B7-AB09-4490-8D25-D27EAF582276}|NotificationService\\NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\notificationservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A8C4B7-AB09-4490-8D25-D27EAF582276}|NotificationService\\NotificationService\\NotificationService.csproj|c:\\users\\user\\desktop\\microservices\\notificationservice\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A8C4B7-AB09-4490-8D25-D27EAF582276}|NotificationService\\NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\microservices\\NotificationService\\NotificationService\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationService\\NotificationService\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\microservices\\NotificationService\\NotificationService\\Program.cs",
+              "RelativeToolTip": "NotificationService\\NotificationService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:19:28.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\microservices\\NotificationService\\NotificationService\\Worker.cs",
+              "RelativeDocumentMoniker": "NotificationService\\NotificationService\\Worker.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\microservices\\NotificationService\\NotificationService\\Worker.cs",
+              "RelativeToolTip": "NotificationService\\NotificationService\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:19:26.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
