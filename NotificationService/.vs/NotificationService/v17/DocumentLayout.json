@@ -1,7 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\NotificationService\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CECCCB-8F54-4D8D-9229-0F52E43CBC16}|NotificationService\\NotificationService.csproj|c:\\users\\karanmandve\\desktop\\microservice (3)\\microservice\\microservice\\notificationservice\\notificationservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CECCCB-8F54-4D8D-9229-0F52E43CBC16}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CECCCB-8F54-4D8D-9229-0F52E43CBC16}|NotificationService\\NotificationService.csproj|c:\\users\\karanmandve\\desktop\\microservice (3)\\microservice\\microservice\\notificationservice\\notificationservice\\model\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CECCCB-8F54-4D8D-9229-0F52E43CBC16}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\model\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CECCCB-8F54-4D8D-9229-0F52E43CBC16}|NotificationService\\NotificationService.csproj|c:\\users\\karanmandve\\desktop\\microservice (3)\\microservice\\microservice\\notificationservice\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CECCCB-8F54-4D8D-9229-0F52E43CBC16}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CECCCB-8F54-4D8D-9229-0F52E43CBC16}|NotificationService\\NotificationService.csproj|c:\\users\\karanmandve\\desktop\\microservice (3)\\microservice\\microservice\\notificationservice\\notificationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2CECCCB-8F54-4D8D-9229-0F52E43CBC16}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CECCCB-8F54-4D8D-9229-0F52E43CBC16}|NotificationService\\NotificationService.csproj|c:\\users\\karanmandve\\desktop\\microservice (3)\\microservice\\microservice\\notificationservice\\notificationservice\\model\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CECCCB-8F54-4D8D-9229-0F52E43CBC16}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\model\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CECCCB-8F54-4D8D-9229-0F52E43CBC16}|NotificationService\\NotificationService.csproj|c:\\users\\karanmandve\\desktop\\microservice (3)\\microservice\\microservice\\notificationservice\\notificationservice\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CECCCB-8F54-4D8D-9229-0F52E43CBC16}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CECCCB-8F54-4D8D-9229-0F52E43CBC16}|NotificationService\\NotificationService.csproj|c:\\users\\karanmandve\\desktop\\microservice (3)\\microservice\\microservice\\notificationservice\\notificationservice\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CECCCB-8F54-4D8D-9229-0F52E43CBC16}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\IEmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotificationService\\IEmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,23 +42,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\Interface\\IEmailService.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Interface\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\Interface\\IEmailService.cs",
+              "RelativeToolTip": "NotificationService\\Interface\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:29:26.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\Model\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Model\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\Model\\EmailSettings.cs",
+              "RelativeToolTip": "NotificationService\\Model\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:22:38.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Program.cs",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\Program.cs",
+              "RelativeToolTip": "NotificationService\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:07:45.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\appsettings.json",
+              "RelativeDocumentMoniker": "NotificationService\\appsettings.json",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\appsettings.json",
+              "RelativeToolTip": "NotificationService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T08:59:15.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMQSettings.cs",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\Model\\RabbitMQSettings.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Model\\RabbitMQSettings.cs",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\Model\\RabbitMQSettings.cs",
+              "RelativeToolTip": "NotificationService\\Model\\RabbitMQSettings.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:15:16.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\Worker.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Worker.cs",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\Worker.cs",
+              "RelativeToolTip": "NotificationService\\Worker.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswCsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T08:57:47.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\Service\\EmailService.cs",
+              "RelativeToolTip": "NotificationService\\Service\\EmailService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:24:13.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\IEmailService.cs",
+              "RelativeDocumentMoniker": "NotificationService\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\NotificationService\\NotificationService\\IEmailService.cs",
+              "RelativeToolTip": "NotificationService\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:38:27.605Z"
             }
           ]
         }

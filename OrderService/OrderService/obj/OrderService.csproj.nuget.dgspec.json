@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\microservices\\OrderService\\OrderService\\OrderService.csproj": {}
+    "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\OrderService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\microservices\\OrderService\\OrderService\\OrderService.csproj": {
+    "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\OrderService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\microservices\\OrderService\\OrderService\\OrderService.csproj",
+        "projectUniqueName": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\OrderService.csproj",
         "projectName": "OrderService",
-        "projectPath": "C:\\Users\\user\\Desktop\\microservices\\OrderService\\OrderService\\OrderService.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\microservices\\OrderService\\OrderService\\obj\\",
+        "projectPath": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\OrderService.csproj",
+        "packagesPath": "C:\\Users\\karanmandve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karanmandve\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,17 +39,24 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.21.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -75,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.7.24407.12/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

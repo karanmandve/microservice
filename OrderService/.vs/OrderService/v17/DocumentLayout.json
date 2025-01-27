@@ -1,7 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\OrderService\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|c:\\users\\karanmandve\\desktop\\microservice (3)\\microservice\\microservice\\orderservice\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|c:\\users\\karanmandve\\desktop\\microservice (3)\\microservice\\microservice\\orderservice\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|c:\\users\\karanmandve\\desktop\\microservice (3)\\microservice\\microservice\\orderservice\\orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|c:\\users\\karanmandve\\desktop\\microservice (3)\\microservice\\microservice\\orderservice\\orderservice\\services\\rabbitmqpublisher.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\services\\rabbitmqpublisher.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|c:\\users\\karanmandve\\desktop\\microservice (3)\\microservice\\microservice\\orderservice\\orderservice\\model\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\model\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|c:\\users\\karanmandve\\desktop\\microservice (3)\\microservice\\microservice\\orderservice\\orderservice\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|c:\\users\\karanmandve\\desktop\\microservice (3)\\microservice\\microservice\\orderservice\\orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|c:\\users\\karanmandve\\desktop\\microservice (3)\\microservice\\microservice\\orderservice\\orderservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E7068-FD05-46E6-9492-CCADD7B473EF}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,23 +42,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMQPublisher.cs.cs",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\Services\\RabbitMQPublisher.cs.cs",
+              "RelativeDocumentMoniker": "OrderService\\Services\\RabbitMQPublisher.cs.cs",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\Services\\RabbitMQPublisher.cs.cs",
+              "RelativeToolTip": "OrderService\\Services\\RabbitMQPublisher.cs.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:57:54.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrderService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrderService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T10:57:34.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:07:39.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMQSettings.cs",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\Model\\RabbitMQSettings.cs",
+              "RelativeDocumentMoniker": "OrderService\\Model\\RabbitMQSettings.cs",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\Model\\RabbitMQSettings.cs",
+              "RelativeToolTip": "OrderService\\Model\\RabbitMQSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:07:14.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:13:41.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderService\\appsettings.json",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\appsettings.json",
+              "RelativeToolTip": "OrderService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T09:03:29.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "OrderService\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\WeatherForecast.cs",
+              "RelativeToolTip": "OrderService\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:34:09.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\karanmandve\\Desktop\\microservice (3)\\microservice\\microservice\\OrderService\\OrderService\\Model\\Order.cs",
+              "RelativeToolTip": "OrderService\\Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:12:04.495Z"
             }
           ]
         }
